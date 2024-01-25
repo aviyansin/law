@@ -1,0 +1,206 @@
+*
+{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.backgorund
+{
+    width:100%;
+    height: 500px;
+
+    background-color: #f3e1b7;
+}
+button.btn.btn-outline-success {
+    background-color: #eeb570;
+}
+a.navbar-brand {
+    color: black;
+    padding: 0px 30px;
+    font-weight: bold;
+}
+
+a.nav-link {
+    color: black;
+}
+div#navbarSupportedContent {
+    padding: 0px 40px;
+    color: black;
+}
+
+
+.headerimage
+{
+    width: 300px;
+    height: 370px;
+   
+
+}
+.headerimage img
+{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+.over h1
+{
+    font-size: 55px;
+    color: black;
+}
+.over h4
+{
+    color: #eeb570;
+    font-size: 12px;
+    
+}
+.over h1 span
+{
+color: #eeb570;
+}
+
+.book
+{
+    padding: 10px 0px;
+}
+
+
+/* section 2 start here */
+
+.fewbox
+{
+    width: 100%;
+    /* height: 150px; */
+    background-color: #f9f4ee;
+}
+.logo_image
+{
+    height: 120px;
+    width: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+}
+.logo_image img
+{
+    height: 100%;
+    width: 100%;
+    padding: 0 20px;
+}
+.more button
+{
+    color:black;
+    
+}
+.aboutimages
+{     width: 400px;
+    height: 400px;
+    
+}
+.aboutimages img
+{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    box-shadow: 10px 10px 2px #eeb570;
+}
+
+/* section start here */
+
+
+
+.choose
+{
+    width: 100%;
+   
+    background-color: #072b27;
+}
+.choose h5
+{
+    color: #cea968;
+    text-align: center;
+    padding-top: 3.5rem;
+}
+.choose h1
+{
+    color: white;
+    text-align: center;
+}
+.choose_first h1
+{
+    color: #cea968;
+    padding-top: 40px;
+    font-size: 3rem;
+    text-align: left;
+    padding: 0 50px;
+}
+.choose_first p
+{
+    color: white;
+    padding: 10px 50px;
+}
+.choose_first button
+{
+    margin: 10px 50px;
+}
+.choose_second h2
+{
+    color: #cea968;
+    text-align: center;
+}
+.choose_second p
+{
+    color: white;
+    padding: 10px 100px;
+    text-align: left;
+}
+
+
+
+/* last section star section */
+.wedo
+{
+    margin-top: 50px;
+    text-align: center;
+}
+.wedo h5 span
+{
+  color: #eeb570;
+  font-size: 12px;
+}
+
+.wedo h2
+{
+    font-size: 35px;
+}
+
+
+
+.blogbox
+{
+    width: 400px;
+    height: 250px;
+    background-color: white;
+    border: 1px solid black;
+    display: flex;
+}
+
+.blogimages 
+{
+    width: 70px;
+    height: 70px;
+   
+}
+.blogimages img
+{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 50%;
+}
+.blogbox h3
+{
+    padding: 20px 20px ;
+    font-size: 18px;
+}
